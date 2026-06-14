@@ -150,11 +150,3 @@ python test_alerts.py         # Test alert saving
 [GitHub](https://github.com/ayushtrivedi205)
 
 ---
-
-Just copy everything above, paste it into your `README.md` file in VS Code, save it, then:
-
-```bash
-git add README.md
-git commit -m "Add README"
-git push origin master
-```
