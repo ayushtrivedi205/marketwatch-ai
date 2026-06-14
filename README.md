@@ -1,6 +1,3 @@
-Here it is:
-
----
 
 # 📈 MarketWatch AI
 
